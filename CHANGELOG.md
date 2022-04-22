@@ -9,3 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial project build.
 - Match tutorial Gemfile version numbers
+- Add a `hello` route for deploy.
