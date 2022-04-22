@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - adds microposts scaffold.
 - adds relationship between users and microposts.
 - validates presence of micropost content as well as 140 char max length.
+- validates presence of user's name and email.
 
 About to start [2.3.3](https://www.learnenough.com/ruby-on-rails-7th-edition-tutorial/toy_app#sec-exercises_demo_user_has_many_microposts)
 
