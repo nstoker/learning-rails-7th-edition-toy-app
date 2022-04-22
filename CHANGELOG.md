@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- adds a scaffold user controller.
+
+About to start [https://www.learnenough.com/ruby-on-rails-7th-edition-tutorial/toy_app#sec-microposts_resource]
+
 ## v0.0.1 2022-04-22
 
 - Initial project build.
