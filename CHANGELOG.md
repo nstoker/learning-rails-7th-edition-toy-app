@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - adds a scaffold user controller.
 - adds microposts scaffold.
 - enforces 140 char message length.
+- adds relationship between users and microposts.
 
 About to start [https://www.learnenough.com/ruby-on-rails-7th-edition-tutorial/toy_app#sec-microposts_resource]
 
