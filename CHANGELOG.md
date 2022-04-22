@@ -8,8 +8,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - adds a scaffold user controller.
+- adds microposts scaffold.
+- adds relationship between users and microposts.
+- validates presence of micropost content as well as 140 char max length.
+- validates presence of user's name and email.
 
-About to start [https://www.learnenough.com/ruby-on-rails-7th-edition-tutorial/toy_app#sec-microposts_resource]
+About to start [2.3.5](https://www.learnenough.com/ruby-on-rails-7th-edition-tutorial/toy_app#sec-deploying_the_toy_app)
 
 ## v0.0.1 2022-04-22
 
