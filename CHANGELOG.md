@@ -9,6 +9,8 @@ About to start [3.1](https://www.learnenough.com/ruby-on-rails-7th-edition-tutor
 
 ## [Unreleased]
 
+## vv0.0.4 2022-10-07
+
 - SECURITY remove lock on Rails gem to allow updates to fix:
   - Active Record RCE bug with Serialized Columns
   - Cross-site Scripting Vulnerability in Action Pack
