@@ -10,7 +10,7 @@ gem "importmap-rails", "1.0.3"
 gem "turbo-rails",     "1.0.1"
 gem "stimulus-rails",  "1.0.4"
 gem "jbuilder",        "2.11.5"
-gem "puma",            "5.6.4"
+gem "puma",            "5.6.7"
 gem "bootsnap",        "1.11.1", require: false
 
 group :development, :test do
